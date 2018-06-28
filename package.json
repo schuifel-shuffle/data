@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "git@github.com:schuifel-shuffle/schuifel-shuffle-data.git",
   "author": "Rick van Laarhoven <hello@rickvanlaarhoven.nl>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha \"test/**/*.test.js\""
+  }
 }
