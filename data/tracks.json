@@ -43,8 +43,7 @@
   },
   {
     "artists": [
-      "All Saints",
-      "Unknown"
+      "All Saints"
     ],
     "name": "Never Ever",
     "spotify_id": "596XLiW6tohIgkcTMf4M6a"
@@ -1278,5 +1277,13 @@
     ],
     "name": "Father And Son",
     "spotify_id": "2nU1cyrG92p8h99g3Gykwz"
+  },
+  {
+    "artists": [
+      "Youssou N'Dour",
+      "Neneh Cherry"
+    ],
+    "name": "7 Seconds",
+    "spotify_id": "76D5nfZbYzZYfUZKGy73jy"
   }
 ]
