@@ -9,7 +9,7 @@ describe('Shuffle', () => {
   it('should return random track', () => {
     const track = shuffle();
 
-    assert.strictEqual(track.name, 'Father And Son');
+    assert.strictEqual(track.name, '7 Seconds');
   });
 
   it('should return random track with the given mood', () => {
