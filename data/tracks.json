@@ -325,6 +325,13 @@
   },
   {
     "artists": [
+      "Christina Aguilera"
+    ],
+    "name": "Hurt",
+    "spotify_id": "6gDXbcILAyBa2skSdbUYq7"
+  },
+  {
+    "artists": [
       "Dan Fogelberg"
     ],
     "name": "Longer",
@@ -1004,6 +1011,13 @@
   },
   {
     "artists": [
+      "Rod Stewart"
+    ],
+    "name": "The Way You Look Tonight",
+    "spotify_id": "7hP1DiP1l4y2zU5HxurVo3"
+  },
+  {
+    "artists": [
       "Roméo"
     ],
     "name": "Coming Home",
@@ -1135,6 +1149,13 @@
     ],
     "name": "Fields Of Gold",
     "spotify_id": "22gLGCKbFKwmgZhrpVcnFb"
+  },
+  {
+    "artists": [
+      "Sting"
+    ],
+    "name": "Shape Of My Heart",
+    "spotify_id": "1ZXfToGBX4iSwghR23xf1h"
   },
   {
     "artists": [
