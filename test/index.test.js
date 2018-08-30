@@ -13,7 +13,7 @@ describe('Shuffle', () => {
   });
 
   it('should return random track with the given mood', () => {
-    const track = shuffle('erotic');
-    assert.strictEqual(track.moods[0], 'erotic');
+    const track = shuffle('lovemaking');
+    assert(track.moods.indexOf('lovemaking') !== -1);
   });
 });
