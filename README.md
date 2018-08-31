@@ -27,3 +27,11 @@ Request a random track from the registry
 const schuifelShuffle = require('schuifel-shuffle-data');
 const track = schuifelShuffle.shuffle();
 ```
+
+### Moods
+
+Tracks are organized by moods. A track can have multiple moods, consisting of one the moods listed below;
+
+- lonely
+- romancing
+- lovemaking
