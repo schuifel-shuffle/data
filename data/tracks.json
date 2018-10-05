@@ -426,6 +426,12 @@
     "moods": ["lonely"]
   },
   {
+    "artists": ["Fish Leong (梁静茹)"],
+    "name": "勇气",
+    "spotify_id": "1HNJXq2ZPr74HyGZ65ZbBo",
+    "moods": ["romancing"]
+  },
+  {
     "artists": ["Foreigner"],
     "name": "I Want To Know What Love Is",
     "spotify_id": "5DeXQ3qADuDmqsosnZAK3o",
