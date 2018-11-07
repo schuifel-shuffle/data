@@ -1,3 +1,7 @@
+[![npm version](https://img.shields.io/npm/v/schuifel-shuffle-data.svg?style=flat-square)](https://www.npmjs.com/package/schuifel-shuffle-data)
+[![npm downloads](https://img.shields.io/npm/dt/schuifel-shuffle-data.svg?style=flat-square)](https://www.npmjs.com/package/schuifel-shuffle-data)
+[![Build Status](https://travis-ci.org/schuifel-shuffle/schuifel-shuffle-data.svg?branch=master)](https://travis-ci.org/schuifel-shuffle/schuifel-shuffle-data)
+
 # schuifel-shuffle-data
 
 A collection of romantic tunes and charming imagery.
@@ -23,3 +27,11 @@ Request a random track from the registry
 const schuifelShuffle = require('schuifel-shuffle-data');
 const track = schuifelShuffle.shuffle();
 ```
+
+### Moods
+
+Tracks are organized by moods. A track can have multiple moods, consisting of one the moods listed below;
+
+- lonely
+- romancing
+- lovemaking
