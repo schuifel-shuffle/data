@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "description": "A collection of romantic tunes and charming imagery",
   "main": "index.js",
-  "repository": "git@github.com:schuifel-shuffle/schuifel-shuffle-data.git",
+  "repository": "git@github.com:schuifel-shuffle/data.git",
   "author": "Rick van Laarhoven <hello@rickvanlaarhoven.nl>",
   "license": "MIT",
   "devDependencies": {
