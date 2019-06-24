@@ -1,1317 +1,1142 @@
 [
   {
-    "artists": [
-      "10cc"
-    ],
+    "artists": ["10cc"],
     "name": "I'm Not In Love",
-    "spotify_id": "0p2hCYclSC0NnB07T3BU17"
+    "spotify_id": "0p2hCYclSC0NnB07T3BU17",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "3T"
-    ],
+    "artists": ["3T"],
     "name": "I Need You",
-    "spotify_id": "78UH8rneVRG4PVC4qKbDKK"
+    "spotify_id": "78UH8rneVRG4PVC4qKbDKK",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "98º"
-    ],
+    "artists": ["98º"],
     "name": "I Do (Cherish You)",
-    "spotify_id": "6CmwkyHOdJR3ZbVr4JCxTP"
+    "spotify_id": "6CmwkyHOdJR3ZbVr4JCxTP",
+    "moods": ["lovemaking", "romancing"]
   },
   {
-    "artists": [
-      "Aaliyah"
-    ],
+    "artists": ["Aaliyah"],
     "name": "At Your Best (You Are Love)",
-    "spotify_id": "4lRrk574qIHpoEEKC1zuam"
+    "spotify_id": "4lRrk574qIHpoEEKC1zuam",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Aerosmith"
-    ],
+    "artists": ["Adele"],
+    "name": "Make You Feel My Love",
+    "spotify_id": "0mqTcM8kuu2IYPotMt7AzS",
+    "moods": ["romancing"]
+  },
+  {
+    "artists": ["Aerosmith"],
     "name": "I Don't Want to Miss a Thing",
-    "spotify_id": "225xvV8r1yKMHErSWivnow"
+    "spotify_id": "225xvV8r1yKMHErSWivnow",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Air Supply"
-    ],
+    "artists": ["Air Supply"],
     "name": "All Out of Love",
-    "spotify_id": "7dQC53NiYOY9gKg3Qsu2Bs"
+    "spotify_id": "7dQC53NiYOY9gKg3Qsu2Bs",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "All Saints"
-    ],
+    "artists": ["All Saints"],
     "name": "Never Ever",
-    "spotify_id": "596XLiW6tohIgkcTMf4M6a"
+    "spotify_id": "596XLiW6tohIgkcTMf4M6a",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Anita Baker"
-    ],
+    "artists": ["Anita Baker"],
     "name": "Sweet Love",
-    "spotify_id": "6b8pYhpXu2pHHvRZW3FBXp"
+    "spotify_id": "6b8pYhpXu2pHHvRZW3FBXp",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Az Yet",
-      "Peter Cetera"
-    ],
+    "artists": ["Az Yet", "Peter Cetera"],
     "name": "Hard To Say I'm Sorry",
-    "spotify_id": "2OWzR8QoH7KaLtiN65v32x"
+    "spotify_id": "2OWzR8QoH7KaLtiN65v32x",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Backstreet Boys"
-    ],
+    "artists": ["Backstreet Boys"],
     "name": "I'll Never Break Your Heart",
-    "spotify_id": "6nAoysQfWidfkaDJKfouvQ"
+    "spotify_id": "6nAoysQfWidfkaDJKfouvQ",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Barry Manilow"
-    ],
+    "artists": ["Barbara Lynn"],
+    "name": "You'll Lose a Good Thing",
+    "spotify_id": "1uYWUUUCuv0E82XuBMJ96F",
+    "moods": ["romancing"]
+  },
+  {
+    "artists": ["Barry Manilow"],
     "name": "Mandy",
-    "spotify_id": "3PL7ESy586g34Pp0ycijrG"
+    "spotify_id": "3PL7ESy586g34Pp0ycijrG",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Barry White"
-    ],
+    "artists": ["Barry White"],
     "name": "Just The Way You Are",
     "spotify_id": "55bvjj1m7GbJwABrsBRx3D",
-    "moods": ["erotic"]
+    "moods": ["lovemaking"]
   },
   {
-    "artists": [
-      "Bee Gees"
-    ],
-    "name": "How Deep Is Your Love (2007 Remastered Saturday Night Fever LP Version)",
-    "spotify_id": "1gIKd24bixkgYzuxse32oR"
+    "artists": ["Bee Gees"],
+    "name": "How Deep Is Your Love",
+    "spotify_id": "1gIKd24bixkgYzuxse32oR",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Berlin"
-    ],
-    "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
-    "spotify_id": "15MJ5NThPjj6xhPcts8MiY"
+    "artists": ["Berlin"],
+    "name": "Take My Breath Away",
+    "spotify_id": "15MJ5NThPjj6xhPcts8MiY",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Bette Midler"
-    ],
-    "name": "The Rose - Remastered Version",
-    "spotify_id": "5iUzEn2QzBW0KEWNQO1KQC"
+    "artists": ["Bette Midler"],
+    "name": "The Rose",
+    "spotify_id": "5iUzEn2QzBW0KEWNQO1KQC",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Billy Joel"
-    ],
+    "artists": ["Billy Joel"],
     "name": "She's Always a Woman",
-    "spotify_id": "5RgFlk1fcClZd0Y4SGYhqH"
+    "spotify_id": "5RgFlk1fcClZd0Y4SGYhqH",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Bon Jovi"
-    ],
+    "artists": ["Bon Jovi"],
     "name": "Bed Of Roses",
-    "spotify_id": "5Ac8sOEk91RTzD06ViNzqf"
+    "spotify_id": "5Ac8sOEk91RTzD06ViNzqf",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Bonnie Tyler"
-    ],
+    "artists": ["Bonnie Tyler"],
     "name": "Total Eclipse of the Heart",
-    "spotify_id": "5prTs2HAw2G4idHZyeFp8o"
+    "spotify_id": "5prTs2HAw2G4idHZyeFp8o",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Boyz II Men"
-    ],
+    "artists": ["Boyz II Men"],
     "name": "End Of The Road",
-    "spotify_id": "0xgcD5kQFrPbQQrzVYqw6h"
+    "spotify_id": "0xgcD5kQFrPbQQrzVYqw6h",
+    "moods": ["lonely", "lovemaking"]
   },
   {
-    "artists": [
-      "Boyz II Men"
-    ],
+    "artists": ["Boyz II Men"],
     "name": "4 Seasons Of Loneliness",
-    "spotify_id": "3hQ3u1yJvWKCOZzUHVzYxS"
+    "spotify_id": "3hQ3u1yJvWKCOZzUHVzYxS",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Boyz II Men"
-    ],
+    "artists": ["Boyz II Men"],
     "name": "I'll Make Love To You",
-    "spotify_id": "7dfl9X38RhIvB3oSmmneq3"
+    "spotify_id": "7dfl9X38RhIvB3oSmmneq3",
+    "moods": ["lovemaking"]
   },
   {
-    "artists": [
-      "Boyzone"
-    ],
+    "artists": ["Boyzone"],
     "name": "No Matter What",
-    "spotify_id": "2aFxArFkASfuLzyeQFMLD0"
+    "spotify_id": "2aFxArFkASfuLzyeQFMLD0",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Bryan Adams"
-    ],
+    "artists": ["Bryan Adams"],
     "name": "(Everything I Do) I Do It For You",
-    "spotify_id": "76qB2ZEZlEJAMqMqUjKusp"
+    "spotify_id": "76qB2ZEZlEJAMqMqUjKusp",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Bryan Adams"
-    ],
+    "artists": ["Bryan Adams"],
     "name": "Please Forgive Me",
-    "spotify_id": "2LQktBKYD12TpS38YOZJH4"
+    "spotify_id": "2LQktBKYD12TpS38YOZJH4",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Bryan Adams"
-    ],
+    "artists": ["Bryan Adams"],
     "name": "Heaven",
-    "spotify_id": "0GIOPJKTSxagq3rq07Ch3U"
+    "spotify_id": "0GIOPJKTSxagq3rq07Ch3U",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Charlene"
-    ],
-    "name": "I've Never Been To Me",
-    "spotify_id": "6zzkMGtZhYXxhUO8fGuAoo"
-  },
-  {
-    "artists": [
-      "Chicago"
-    ],
-    "name": "Hard To Say I'm Sorry",
-    "spotify_id": "2oBhNxof7wQmdSXg9kmHhs"
-  },
-  {
-    "artists": [
-      "Chicago"
-    ],
-    "name": "If You Leave Me Now - Remastered",
-    "spotify_id": "0KMGxYKeUzK9wc5DZCt3HT"
-  },
-  {
-    "artists": [
-      "Chicago"
-    ],
-    "name": "You're The Inspiration",
-    "spotify_id": "2Z7bUp8cJKTM9eoj7hvWXG"
-  },
-  {
-    "artists": [
-      "Chris Isaak"
-    ],
-    "name": "Wicked Game",
-    "spotify_id": "390AWnOn2rfe9FzQjYmxIH"
-  },
-  {
-    "artists": [
-      "Chris de Burgh"
-    ],
-    "name": "The Lady In Red",
-    "spotify_id": "6b4XiypqlFspJPej2DNRhC"
-  },
-  {
-    "artists": [
-      "Close II You"
-    ],
-    "name": "Baby Don't Go",
-    "spotify_id": "1443fRRG6rgJaSAoHQa6JE"
-  },
-  {
-    "artists": [
-      "Clouseau"
-    ],
-    "name": "Daar Gaat Ze",
-    "spotify_id": "1pQcaYky2rRxSeUdZld9xk"
-  },
-  {
-    "artists": [
-      "Clouseau"
-    ],
-    "name": "Passie",
-    "spotify_id": "6ofEEF1YdXvWPnOvtc35bt"
-  },
-  {
-    "artists": [
-      "Coldplay"
-    ],
-    "name": "Trouble",
-    "spotify_id": "0R8P9KfGJCDULmlEoBagcO"
-  },
-  {
-    "artists": [
-      "Commodores"
-    ],
-    "name": "Three Times A Lady - Single Version",
-    "spotify_id": "4RKWi5UqBl6GR7f7FUdtEo"
-  },
-  {
-    "artists": [
-      "Crowded House"
-    ],
-    "name": "Don't Dream It's Over",
-    "spotify_id": "6avxJ3kn6rkPE21X4fyg7q"
-  },
-  {
-    "artists": [
-      "Crystal Gayle"
-    ],
-    "name": "Don't It Make My Brown Eyes Blue - 2001 - Remaster",
-    "spotify_id": "7x897UpWZq1bovK3I49T0B"
-  },
-  {
-    "artists": [
-      "Cyndi Lauper"
-    ],
-    "name": "Time After Time",
-    "spotify_id": "5tzbM8m70V977Ezpfk8IPS"
-  },
-  {
-    "artists": [
-      "Cyndi Lauper"
-    ],
-    "name": "True Colors",
-    "spotify_id": "75IMMdb6JsWYgiRQHcAcIL"
-  },
-  {
-    "artists": [
-      "Cyril Beaumont"
-    ],
-    "name": "Chardonnay Eyes (A Vinter's Song)",
-    "spotify_id": "4TYcsw3A8981NSmQpWUTzg"
-  },
-  {
-    "artists": [
-      "Céline Dion"
-    ],
+    "artists": ["Céline Dion"],
     "name": "Because You Loved Me",
-    "spotify_id": "6hRcrByB9i6rYRiHNh170N"
+    "spotify_id": "6hRcrByB9i6rYRiHNh170N",
+    "moods": ["lonely", "romancing"]
   },
   {
-    "artists": [
-      "Céline Dion"
-    ],
+    "artists": ["Céline Dion"],
     "name": "Pour que tu m'aimes encore",
-    "spotify_id": "2hwHPUMNlR8WfCGOwBYco0"
+    "spotify_id": "2hwHPUMNlR8WfCGOwBYco0",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Céline Dion"
-    ],
-    "name": "It's All Coming Back To Me Now - Radio Edit 1",
-    "spotify_id": "4QqKnAz4uL4YSI5p8txgHj"
+    "artists": ["Céline Dion"],
+    "name": "It's All Coming Back To Me Now",
+    "spotify_id": "4QqKnAz4uL4YSI5p8txgHj",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Céline Dion"
-    ],
-    "name": "My Heart Will Go On (Love Theme from \"Titanic\")",
-    "spotify_id": "0sGNcx6lfc3zrbiIOxY4vb"
+    "artists": ["Céline Dion"],
+    "name": "My Heart Will Go On",
+    "spotify_id": "0sGNcx6lfc3zrbiIOxY4vb",
+    "moods": ["lonely", "romancing"]
   },
   {
-    "artists": [
-      "Céline Dion"
-    ],
+    "artists": ["Céline Dion"],
     "name": "Think Twice",
-    "spotify_id": "6pUNNbtRNXE8JgmEAK277S"
+    "spotify_id": "6pUNNbtRNXE8JgmEAK277S",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Christina Aguilera"
-    ],
+    "artists": ["Charlene"],
+    "name": "I've Never Been To Me",
+    "spotify_id": "6zzkMGtZhYXxhUO8fGuAoo",
+    "moods": ["romancing"]
+  },
+  {
+    "artists": ["Chicago"],
+    "name": "Hard To Say I'm Sorry",
+    "spotify_id": "2oBhNxof7wQmdSXg9kmHhs",
+    "moods": ["lonely"]
+  },
+  {
+    "artists": ["Chicago"],
+    "name": "If You Leave Me Now",
+    "spotify_id": "0KMGxYKeUzK9wc5DZCt3HT",
+    "moods": ["lonely"]
+  },
+  {
+    "artists": ["Chicago"],
+    "name": "You're The Inspiration",
+    "spotify_id": "2Z7bUp8cJKTM9eoj7hvWXG",
+    "moods": ["romancing"]
+  },
+  {
+    "artists": ["Chris Isaak"],
+    "name": "Wicked Game",
+    "spotify_id": "390AWnOn2rfe9FzQjYmxIH",
+    "moods": ["romancing"]
+  },
+  {
+    "artists": ["Chris de Burgh"],
+    "name": "The Lady In Red",
+    "spotify_id": "6b4XiypqlFspJPej2DNRhC",
+    "moods": ["lovemaking", "romancing"]
+  },
+  {
+    "artists": ["Christina Aguilera"],
     "name": "Hurt",
-    "spotify_id": "6gDXbcILAyBa2skSdbUYq7"
+    "spotify_id": "6gDXbcILAyBa2skSdbUYq7",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Dan Fogelberg"
-    ],
+    "artists": ["Close II You"],
+    "name": "Baby Don't Go",
+    "spotify_id": "1443fRRG6rgJaSAoHQa6JE",
+    "moods": ["romancing", "lovemaking"]
+  },
+  {
+    "artists": ["Clouseau"],
+    "name": "Daar Gaat Ze",
+    "spotify_id": "1pQcaYky2rRxSeUdZld9xk",
+    "moods": ["lonely"]
+  },
+  {
+    "artists": ["Clouseau"],
+    "name": "Passie",
+    "spotify_id": "6ofEEF1YdXvWPnOvtc35bt",
+    "moods": ["lonely"]
+  },
+  {
+    "artists": ["Coldplay"],
+    "name": "Trouble",
+    "spotify_id": "0R8P9KfGJCDULmlEoBagcO",
+    "moods": ["lonely"]
+  },
+  {
+    "artists": ["Commodores"],
+    "name": "Three Times A Lady",
+    "spotify_id": "4RKWi5UqBl6GR7f7FUdtEo",
+    "moods": ["romancing"]
+  },
+  {
+    "artists": ["Crowded House"],
+    "name": "Don't Dream It's Over",
+    "spotify_id": "6avxJ3kn6rkPE21X4fyg7q",
+    "moods": ["lonely"]
+  },
+  {
+    "artists": ["Crystal Gayle"],
+    "name": "Don't It Make My Brown Eyes Blue",
+    "spotify_id": "7x897UpWZq1bovK3I49T0B",
+    "moods": ["lonely"]
+  },
+  {
+    "artists": ["Cyndi Lauper"],
+    "name": "Time After Time",
+    "spotify_id": "5tzbM8m70V977Ezpfk8IPS",
+    "moods": ["lonely", "romancing"]
+  },
+  {
+    "artists": ["Cyndi Lauper"],
+    "name": "True Colors",
+    "spotify_id": "75IMMdb6JsWYgiRQHcAcIL",
+    "moods": ["romancing"]
+  },
+  {
+    "artists": ["Cyril Beaumont"],
+    "name": "Chardonnay Eyes (A Vinter's Song)",
+    "spotify_id": "4TYcsw3A8981NSmQpWUTzg",
+    "moods": ["lovemaking"]
+  },
+  {
+    "artists": ["Dan Fogelberg"],
     "name": "Longer",
-    "spotify_id": "6OKrPnWUC8FccKiLVpxQWQ"
+    "spotify_id": "6OKrPnWUC8FccKiLVpxQWQ",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Daniel Bedingfield"
-    ],
+    "artists": ["Daniel Bedingfield"],
     "name": "If You're Not The One",
-    "spotify_id": "6B6aCxSBsECsulzOkJRxGv"
+    "spotify_id": "6B6aCxSBsECsulzOkJRxGv",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Deniece Williams"
-    ],
+    "artists": ["Deniece Williams"],
     "name": "We're Together",
-    "spotify_id": "2JKNGw1dl90pbhqzcn0kr0"
+    "spotify_id": "2JKNGw1dl90pbhqzcn0kr0",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Diana Ross"
-    ],
+    "artists": ["De Poema's"],
+    "name": "Zij Maakt Het Verschil",
+    "spotify_id": "4ptF2Hvq7PdsDKXV0o7x2M",
+    "moods": ["romancing"]
+  },
+  {
+    "artists": ["Diana Ross", "Lionel Richie"],
     "name": "Endless Love",
-    "spotify_id": "4GBPZmnLHEMdthyo2RDolF"
+    "spotify_id": "4GBPZmnLHEMdthyo2RDolF",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Dolly Parton",
-      "Vince Gill"
-    ],
+    "artists": ["Dionne Warwick"],
+    "name": "I'll Never Love This Way Again",
+    "spotify_id": "25kYvXbKVoh3oQD3OwozhK",
+    "moods": ["lonely", "romancing"]
+  },
+  {
+    "artists": ["Dolly Parton", "Vince Gill"],
     "name": "I Will Always Love You",
-    "spotify_id": "08ECrkTSExkuI3QvZ5oN5s"
+    "spotify_id": "08ECrkTSExkuI3QvZ5oN5s",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Donna Lewis"
-    ],
+    "artists": ["Donna Lewis"],
     "name": "I Love You Always Forever",
-    "spotify_id": "1PEqh7awkpuepLBSq8ZwqD"
+    "spotify_id": "1PEqh7awkpuepLBSq8ZwqD",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Earth, Wind & Fire"
-    ],
+    "artists": ["Earth, Wind & Fire"],
     "name": "After The Love Has Gone",
-    "spotify_id": "0c3Xqt6MesEzKVGdoKandP"
+    "spotify_id": "0c3Xqt6MesEzKVGdoKandP",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Ed Sheeran"
-    ],
+    "artists": ["Ed Sheeran"],
     "name": "Perfect",
-    "spotify_id": "0tgVpDi06FyKpA1z0VMD4v"
+    "spotify_id": "0tgVpDi06FyKpA1z0VMD4v",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Edwin McCain"
-    ],
+    "artists": ["Edwin McCain"],
     "name": "I'll Be (45 Version)",
-    "spotify_id": "3rR0XoCFCtPkGr1SOJGABW"
+    "spotify_id": "3rR0XoCFCtPkGr1SOJGABW",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Elaine Paige",
-      "Barbara Dickson"
-    ],
+    "artists": ["Elaine Paige", "Barbara Dickson"],
     "name": "I Know Him So Well",
-    "spotify_id": "7jd2H8AwUYk4EbFzc6GO7o"
+    "spotify_id": "7jd2H8AwUYk4EbFzc6GO7o",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Elton John"
-    ],
+    "artists": ["Elton John"],
     "name": "Sorry Seems To Be The Hardest Word",
-    "spotify_id": "0R55eHLr9GN5ZeehNr1qOh"
+    "spotify_id": "0R55eHLr9GN5ZeehNr1qOh",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Elton John"
-    ],
+    "artists": ["Elton John"],
     "name": "Candle In The Wind",
-    "spotify_id": "6rDSJEMDFEaT7pr8J9jND1"
+    "spotify_id": "6rDSJEMDFEaT7pr8J9jND1",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Elton John"
-    ],
+    "artists": ["Elton John"],
     "name": "Can You Feel the Love Tonight",
-    "spotify_id": "32RxZnEk5KyWUTZR4azxbD"
+    "spotify_id": "32RxZnEk5KyWUTZR4azxbD",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Elvis Presley",
-      "The Jordanaires"
-    ],
+    "artists": ["Elvis Presley", "The Jordanaires"],
     "name": "Can't Help Falling in Love",
-    "spotify_id": "5l5oJ7rf3ZODYsrAS1hah4"
+    "spotify_id": "5l5oJ7rf3ZODYsrAS1hah4",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Enrique Iglesias"
-    ],
+    "artists": ["Enrique Iglesias"],
     "name": "Hero",
-    "spotify_id": "2wvNUDkOu4Y5Ywi1Ju9lct"
+    "spotify_id": "2wvNUDkOu4Y5Ywi1Ju9lct",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Eric Carmen"
-    ],
+    "artists": ["Eric Carmen"],
     "name": "All by Myself",
-    "spotify_id": "65ANSaYbBQK6z8fOl0TWVd"
+    "spotify_id": "65ANSaYbBQK6z8fOl0TWVd",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Eric Clapton"
-    ],
+    "artists": ["Eric Clapton"],
     "name": "Wonderful Tonight",
-    "spotify_id": "2uisasUp51sEogjSx91Qsy"
+    "spotify_id": "2uisasUp51sEogjSx91Qsy",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Eric Clapton"
-    ],
+    "artists": ["Eric Clapton"],
     "name": "Tears In Heaven",
-    "spotify_id": "7utRJ4BeYx85khzP3lKoBX"
+    "spotify_id": "7utRJ4BeYx85khzP3lKoBX",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Espen Lind"
-    ],
+    "artists": ["Espen Lind"],
     "name": "When Susannah Cries",
-    "spotify_id": "6rgASmUhE4RXNYRIAOwZzr"
+    "spotify_id": "6rgASmUhE4RXNYRIAOwZzr",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Extreme"
-    ],
+    "artists": ["Extreme"],
     "name": "More Than Words",
-    "spotify_id": "1gVgkQFOKa8Wc1HYsJtPdH"
+    "spotify_id": "1gVgkQFOKa8Wc1HYsJtPdH",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Faith No More"
-    ],
+    "artists": ["Faith No More"],
     "name": "Easy",
-    "spotify_id": "1FVcSVHgSiNHwiOh4wLawP"
+    "spotify_id": "1FVcSVHgSiNHwiOh4wLawP",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Foreigner"
-    ],
-    "name": "I Want To Know What Love Is (2008 Remastered Version)",
-    "spotify_id": "5DeXQ3qADuDmqsosnZAK3o"
+    "artists": ["Fish Leong (梁静茹)"],
+    "name": "勇气",
+    "spotify_id": "1HNJXq2ZPr74HyGZ65ZbBo",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Freddie Jackson"
-    ],
-    "name": "You Are My Lady - Digitally Remastered 02",
-    "spotify_id": "5Le0VO4GkgVyTxlwYmgz5n"
+    "artists": ["Foreigner"],
+    "name": "I Want To Know What Love Is",
+    "spotify_id": "5DeXQ3qADuDmqsosnZAK3o",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Gabrielle"
-    ],
-    "name": "Out Of Reach - From \"Bridget Jones's Diary\"",
-    "spotify_id": "4eS9g2FLy8qDN7j4txFK0S"
+    "artists": ["Freddie Jackson"],
+    "name": "You Are My Lady",
+    "spotify_id": "5Le0VO4GkgVyTxlwYmgz5n",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "George Michael"
-    ],
+    "artists": ["Gabrielle"],
+    "name": "Out Of Reach",
+    "spotify_id": "4eS9g2FLy8qDN7j4txFK0S",
+    "moods": ["lonely"]
+  },
+  {
+    "artists": ["George Michael"],
     "name": "Careless Whisper",
-    "spotify_id": "4fVdtkBSTaOuecdWKcXmRX"
+    "spotify_id": "4fVdtkBSTaOuecdWKcXmRX",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Glenn Medeiros"
-    ],
+    "artists": ["Glenn Medeiros"],
     "name": "Nothing's Gonna Change My Love for You",
-    "spotify_id": "2EnZ9bpgUtLgKkRFehp8xS"
+    "spotify_id": "2EnZ9bpgUtLgKkRFehp8xS",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Hero"
-    ],
-    "name": "Toen Ik Je Zag - Single Version",
-    "spotify_id": "0PynPGqWuKWpxoAKZvRA0t"
+    "artists": ["Hero"],
+    "name": "Toen Ik Je Zag",
+    "spotify_id": "0PynPGqWuKWpxoAKZvRA0t",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Janet Jackson"
-    ],
+    "artists": ["Janet Jackson"],
     "name": "Let's Wait Awhile",
-    "spotify_id": "3fCqWsYPCPdLteUpeIOeyQ"
+    "spotify_id": "3fCqWsYPCPdLteUpeIOeyQ",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Janet Jackson"
-    ],
+    "artists": ["Janet Jackson"],
     "name": "Anything",
-    "spotify_id": "62uXsTJFYiq1HahtVDXnXZ"
+    "spotify_id": "62uXsTJFYiq1HahtVDXnXZ",
+    "moods": ["lovemaking"]
   },
   {
-    "artists": [
-      "Jermaine Jackson"
-    ],
+    "artists": ["Jermaine Jackson"],
     "name": "Do What You Do",
-    "spotify_id": "6gmLSRnCGWaPeO64miR2Rr"
+    "spotify_id": "6gmLSRnCGWaPeO64miR2Rr",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Joe Cocker"
-    ],
+    "artists": ["Joe Cocker"],
     "name": "You Are So Beautiful",
-    "spotify_id": "3cceeA8rQt6pOCIrAil1Zg"
+    "spotify_id": "3cceeA8rQt6pOCIrAil1Zg",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Joe Cocker",
-      "Jennifer Warnes"
-    ],
+    "artists": ["Joe Cocker", "Jennifer Warnes"],
     "name": "Up Where We Belong",
-    "spotify_id": "5NoUgO4Kr93QymQGQlBC7b"
+    "spotify_id": "5NoUgO4Kr93QymQGQlBC7b",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Joshua Kadison"
-    ],
+    "artists": ["Joshua Kadison"],
     "name": "Jessie",
-    "spotify_id": "4n8iSiSWRdaSeSpJMbdk9O"
+    "spotify_id": "4n8iSiSWRdaSeSpJMbdk9O",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Juice Newton"
-    ],
+    "artists": ["Juice Newton"],
     "name": "Angel Of The Morning",
-    "spotify_id": "6NVB6W7G3svCKe5zB7kY8q"
+    "spotify_id": "6NVB6W7G3svCKe5zB7kY8q",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "K-Ci & JoJo"
-    ],
+    "artists": ["K-Ci & JoJo"],
     "name": "All My Life",
-    "spotify_id": "5axvnZK8GJBacFf4e1hCPs"
+    "spotify_id": "5axvnZK8GJBacFf4e1hCPs",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "KATO"
-    ],
+    "artists": ["KATO"],
     "name": "Dancing On My Own",
-    "spotify_id": "24ww4P9yrOtyKbmeYHA0Oc"
+    "spotify_id": "24ww4P9yrOtyKbmeYHA0Oc",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Kansas"
-    ],
+    "artists": ["Kansas"],
     "name": "Dust in The Wind",
-    "spotify_id": "7uV7pkp0lPCuOdTUcvnEOI"
+    "spotify_id": "7uV7pkp0lPCuOdTUcvnEOI",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Keith Sweat",
-      "Athena Cage"
-    ],
-    "name": "Nobody (feat. Athena Cage)",
-    "spotify_id": "4SF1747p541umnykBp352Q"
+    "artists": ["Keith Sweat", "Athena Cage"],
+    "name": "Nobody",
+    "spotify_id": "4SF1747p541umnykBp352Q",
+    "moods": ["lovemaking"]
   },
   {
-    "artists": [
-      "Kenny Rogers",
-      "Sheena Easton"
-    ],
+    "artists": ["Kenny Rogers", "Sheena Easton"],
     "name": "We've Got Tonight",
-    "spotify_id": "3hACh49WNpyDDXi28nSbrq"
+    "spotify_id": "3hACh49WNpyDDXi28nSbrq",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Kool & The Gang"
-    ],
+    "artists": ["Kool & The Gang"],
     "name": "Cherish",
-    "spotify_id": "22PkL4AiP7hnTBgpY3vXxF"
+    "spotify_id": "22PkL4AiP7hnTBgpY3vXxF",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Laura Jansen"
-    ],
+    "artists": ["Laura Jansen"],
     "name": "Use Somebody",
-    "spotify_id": "4PwNy6Qj8bdkyRXuwNXeEO"
+    "spotify_id": "4PwNy6Qj8bdkyRXuwNXeEO",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Laura Pausini"
-    ],
+    "artists": ["Laura Pausini"],
     "name": "La Solitudine",
-    "spotify_id": "5bxQHscWvyaQbm37igKP4K"
+    "spotify_id": "5bxQHscWvyaQbm37igKP4K",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "LeAnn Rimes"
-    ],
+    "artists": ["LeAnn Rimes"],
     "name": "How Do I Live",
-    "spotify_id": "5VJlvaPufnazmTvt2sHQqc"
+    "spotify_id": "5VJlvaPufnazmTvt2sHQqc",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Lionel Richie"
-    ],
+    "artists": ["Lionel Richie"],
     "name": "Hello",
-    "spotify_id": "57Sx40JjwLARlhyFiHhmv0"
+    "spotify_id": "57Sx40JjwLARlhyFiHhmv0",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Lionel Richie"
-    ],
+    "artists": ["Lionel Richie"],
     "name": "Say You, Say Me",
-    "spotify_id": "4TAoENTHYy7u4q4phwhJXh"
+    "spotify_id": "4TAoENTHYy7u4q4phwhJXh",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Lionel Richie"
-    ],
+    "artists": ["Lionel Richie"],
     "name": "Stuck On You",
-    "spotify_id": "6HPLeKiNm92RbykX2BDTUB"
+    "spotify_id": "6HPLeKiNm92RbykX2BDTUB",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Luther Vandross"
-    ],
+    "artists": ["Luther Vandross"],
     "name": "Here And Now",
-    "spotify_id": "3FjTPS2GIgZOBMRNQCVRMG"
+    "spotify_id": "3FjTPS2GIgZOBMRNQCVRMG",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Marco Borsato",
-      "Sita"
-    ],
+    "artists": ["Marco Borsato", "Sita"],
     "name": "Lopen Op Het Water",
-    "spotify_id": "51KmYpQWNjrVyoV4XHR7vy"
+    "spotify_id": "51KmYpQWNjrVyoV4XHR7vy",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Marco Borsato"
-    ],
-    "name": "Afscheid Nemen Bestaat Niet - Single Version",
-    "spotify_id": "0vWovd6jWXlUPPU6IxUv2J"
+    "artists": ["Marco Borsato"],
+    "name": "Afscheid Nemen Bestaat Niet",
+    "spotify_id": "0vWovd6jWXlUPPU6IxUv2J",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Maria McKee"
-    ],
+    "artists": ["Maria McKee"],
     "name": "Show Me Heaven",
-    "spotify_id": "1N3XpmZHCE1JHQJRe4ooAu"
+    "spotify_id": "1N3XpmZHCE1JHQJRe4ooAu",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Mariah Carey"
-    ],
-    "name": "Through The Rain - Radio Edit",
-    "spotify_id": "3lAzsNOjJsOAgcvqjLMFYc"
+    "artists": ["Mariah Carey"],
+    "name": "Through The Rain",
+    "spotify_id": "3lAzsNOjJsOAgcvqjLMFYc",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Mariah Carey"
-    ],
+    "artists": ["Mariah Carey"],
     "name": "Hero",
-    "spotify_id": "4FCb4CUbFCMNRkI6lYc1zI"
+    "spotify_id": "4FCb4CUbFCMNRkI6lYc1zI",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Mariah Carey"
-    ],
+    "artists": ["Mariah Carey"],
     "name": "Vision of Love",
-    "spotify_id": "4z9ruUeuA0YM66troWZsMQ"
+    "spotify_id": "4z9ruUeuA0YM66troWZsMQ",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Mariah Carey"
-    ],
+    "artists": ["Mariah Carey"],
     "name": "I Still Believe",
-    "spotify_id": "7EcOBVXPwpTrIUAbDxFPWL"
+    "spotify_id": "7EcOBVXPwpTrIUAbDxFPWL",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Mariah Carey",
-      "Whitney Houston"
-    ],
-    "name": "When You Believe (from The Prince of Egypt)",
-    "spotify_id": "5luETiur1vCxLMRLzNTeaU"
+    "artists": ["Mariah Carey", "Whitney Houston"],
+    "name": "When You Believe",
+    "spotify_id": "5luETiur1vCxLMRLzNTeaU",
+    "moods": ["lonely", "romancing"]
   },
   {
-    "artists": [
-      "Mariah Carey"
-    ],
+    "artists": ["Mariah Carey"],
     "name": "Without You",
-    "spotify_id": "1kMOJBmpfWD9fir6st9uqS"
+    "spotify_id": "1kMOJBmpfWD9fir6st9uqS",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Mariah Carey",
-      "Boyz II Men"
-    ],
+    "artists": ["Mariah Carey", "Boyz II Men"],
     "name": "One Sweet Day",
-    "spotify_id": "6ew13XtciO5WxcD9b8d0cr"
+    "spotify_id": "6ew13XtciO5WxcD9b8d0cr",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Marillion"
-    ],
-    "name": "Kayleigh - 2017 Remastered Version",
-    "spotify_id": "2NhU1OSlnCejzyQ6UmUoOl"
+    "artists": ["Marillion"],
+    "name": "Kayleigh",
+    "spotify_id": "2NhU1OSlnCejzyQ6UmUoOl",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Mario"
-    ],
+    "artists": ["Mario"],
     "name": "Let Me Love You",
-    "spotify_id": "5WphWTUIfRe7x8NZss79cY"
+    "spotify_id": "5WphWTUIfRe7x8NZss79cY",
+    "moods": ["lovemaking"]
   },
   {
-    "artists": [
-      "Marvin Gaye"
-    ],
+    "artists": ["Marvin Gaye"],
     "name": "Let's Get It On",
-    "spotify_id": "4Edtgs4Io5HYYN6MDZ4i5G"
+    "spotify_id": "4Edtgs4Io5HYYN6MDZ4i5G",
+    "moods": ["lovemaking"]
   },
   {
-    "artists": [
-      "Melanie C"
-    ],
+    "artists": ["Melanie C", "Lisa \"Left Eye\" Lopes"],
     "name": "Never Be The Same Again",
-    "spotify_id": "79EAVfOpzgfHx3IE2BVFQv"
+    "spotify_id": "79EAVfOpzgfHx3IE2BVFQv",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Michael Bolton"
-    ],
+    "artists": ["Michael Bolton"],
     "name": "When a Man Loves a Woman",
-    "spotify_id": "2gesnmmQtTco0LR2WgGzUR"
+    "spotify_id": "2gesnmmQtTco0LR2WgGzUR",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Michael Bolton"
-    ],
+    "artists": ["Michael Bolton"],
     "name": "How Am I Supposed to Live Without You",
-    "spotify_id": "3RMeOetCdXttthQK0clPuz"
+    "spotify_id": "3RMeOetCdXttthQK0clPuz",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Michael Bublé"
-    ],
+    "artists": ["Michael Bublé"],
     "name": "Home",
-    "spotify_id": "3lyLqIn8mybyEFTs8JJaLf"
+    "spotify_id": "3lyLqIn8mybyEFTs8JJaLf",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Michael Jackson",
-      "Siedah Garrett"
-    ],
+    "artists": ["Michael Jackson", "Siedah Garrett"],
     "name": "I Just Can't Stop Loving You",
-    "spotify_id": "41j2OWqvDQ5zGvwOXzoZco"
+    "spotify_id": "41j2OWqvDQ5zGvwOXzoZco",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Michael Jackson"
-    ],
-    "name": "Ben - Single Version",
-    "spotify_id": "5qgJpXNZ6vwu5XltqvFs68"
+    "artists": ["Michael Jackson"],
+    "name": "Ben",
+    "spotify_id": "5qgJpXNZ6vwu5XltqvFs68",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Michael Jackson"
-    ],
+    "artists": ["Michael Jackson"],
     "name": "You Are Not Alone",
-    "spotify_id": "6eQfWKgR9c5t1dpUVW3OBO"
+    "spotify_id": "6eQfWKgR9c5t1dpUVW3OBO",
+    "moods": ["lonely", "romancing"]
   },
   {
-    "artists": [
-      "Milli Vanilli"
-    ],
+    "artists": ["Milli Vanilli"],
     "name": "Girl I'm Gonna Miss You",
-    "spotify_id": "09RfppMgQuJFYQrskvu30k"
+    "spotify_id": "09RfppMgQuJFYQrskvu30k",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Minnie Riperton"
-    ],
+    "artists": ["Minnie Riperton"],
     "name": "Lovin' You",
-    "spotify_id": "1Q91KIM5aAFMB8t0COjAFE"
+    "spotify_id": "1Q91KIM5aAFMB8t0COjAFE",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Minnie Riperton"
-    ],
+    "artists": ["Minnie Riperton"],
     "name": "Inside My Love",
-    "spotify_id": "1e0zbA86VkPt2bIi3YWJxC"
+    "spotify_id": "1e0zbA86VkPt2bIi3YWJxC",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Nat King Cole"
-    ],
-    "name": "Unforgettable (Duet with Nat \"King\" Cole) - 2000 Digital Remaster",
-    "spotify_id": "5h1mm1R9Jy531CbvptILX7"
+    "artists": ["Natalie Cole", "Nat King Cole"],
+    "name": "Unforgettable",
+    "spotify_id": "5h1mm1R9Jy531CbvptILX7",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Natalie Cole"
-    ],
+    "artists": ["Natalie Cole"],
     "name": "Miss You Like Crazy",
-    "spotify_id": "0wS1JPqGgjWFKbCop8SvYI"
+    "spotify_id": "0wS1JPqGgjWFKbCop8SvYI",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Nazareth"
-    ],
+    "artists": ["Nazareth"],
     "name": "Love Hurts",
-    "spotify_id": "5g1rzUEyVFNr2i4ifEjlVN"
+    "spotify_id": "5g1rzUEyVFNr2i4ifEjlVN",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "No Mercy"
-    ],
-    "name": "When I Die - Radio Version",
-    "spotify_id": "5e6ff1g6tIqCZALC2iMq79"
+    "artists": ["No Mercy"],
+    "name": "When I Die",
+    "spotify_id": "5e6ff1g6tIqCZALC2iMq79",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Norah Jones"
-    ],
+    "artists": ["Norah Jones"],
     "name": "Come Away With Me",
-    "spotify_id": "0Cvjlph1WGbwZY1PlMEtJY"
+    "spotify_id": "0Cvjlph1WGbwZY1PlMEtJY",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Norah Jones"
-    ],
+    "artists": ["Norah Jones"],
     "name": "Don't Know Why",
-    "spotify_id": "6ybViy2qrO9sIi41EgRJgx"
+    "spotify_id": "6ybViy2qrO9sIi41EgRJgx",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Patrick Swayze",
-      "Wendy Fraser"
-    ],
+    "artists": ["Patrick Swayze", "Wendy Fraser"],
     "name": "She's Like the Wind",
-    "spotify_id": "3d4I2tQUz16S8gesU2pLSM"
+    "spotify_id": "3d4I2tQUz16S8gesU2pLSM",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Paul de Leeuw"
-    ],
+    "artists": ["Paul de Leeuw"],
     "name": "Ik Wil Niet Dat Je Liegt",
-    "spotify_id": "76ikfBK8uCzlSmhlYKQMLm"
+    "spotify_id": "76ikfBK8uCzlSmhlYKQMLm",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Paula Abdul"
-    ],
+    "artists": ["Paula Abdul"],
     "name": "Rush, Rush",
-    "spotify_id": "015qd1I4v00JIoK7yOUgKC"
+    "spotify_id": "015qd1I4v00JIoK7yOUgKC",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Peabo Bryson",
-      "Regina Belle"
-    ],
-    "name": "A Whole New World (Aladdin's Theme)",
-    "spotify_id": "6Rce6eVToKdNTRWsQN6Zpi"
+    "artists": ["Peabo Bryson", "Regina Belle"],
+    "name": "A Whole New World",
+    "spotify_id": "6Rce6eVToKdNTRWsQN6Zpi",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Peabo Bryson",
-      "Roberta Flack"
-    ],
+    "artists": ["Peabo Bryson", "Roberta Flack"],
     "name": "Tonight, I Celebrate My Love",
-    "spotify_id": "5449I0DFYTY1dW7wWrckE3"
+    "spotify_id": "5449I0DFYTY1dW7wWrckE3",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Percy Sledge"
-    ],
+    "artists": ["Percy Sledge"],
     "name": "When A Man Loves A Woman",
-    "spotify_id": "51FpzuGkRYXFgsE2zXt9av"
+    "spotify_id": "51FpzuGkRYXFgsE2zXt9av",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Phil Collins"
-    ],
+    "artists": ["Phil Collins"],
     "name": "One More Night",
-    "spotify_id": "6vyZfDArwB7MdASSjFsl9y"
+    "spotify_id": "6vyZfDArwB7MdASSjFsl9y",
+    "moods": ["romancing", "lovemaking"]
   },
   {
-    "artists": [
-      "Phil Collins"
-    ],
+    "artists": ["Phil Collins"],
     "name": "Against All Odds (Take A Look At Me Now)",
-    "spotify_id": "2hMF7H2dO3oMz1WwIQnQw1"
+    "spotify_id": "2hMF7H2dO3oMz1WwIQnQw1",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Phil Collins"
-    ],
-    "name": "Another Day In Paradise - 2016 Remastered",
-    "spotify_id": "1NCuYqMc8hKMb4cpNTcJbD"
+    "artists": ["Phil Collins"],
+    "name": "Another Day In Paradise",
+    "spotify_id": "1NCuYqMc8hKMb4cpNTcJbD",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Piano Tribute Players"
-    ],
-    "name": "Imagine",
-    "spotify_id": "7tLxZQX2tO9GxtyKQF6PuL"
+    "artists": ["R. Kelly"],
+    "name": "If I Could Turn Back the Hands of Time",
+    "spotify_id": "3KJ5QQU5xFNTKcNZTe2GNw",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "R. Kelly"
-    ],
-    "name": "If I Could Turn Back the Hands of Time - Radio Edit",
-    "spotify_id": "3KJ5QQU5xFNTKcNZTe2GNw"
-  },
-  {
-    "artists": [
-      "R. Kelly",
-      "Public Announcement"
-    ],
+    "artists": ["R. Kelly", "Public Announcement"],
     "name": "Honey Love",
-    "spotify_id": "1ZP0yvaWPl8vQV9ZH9jvT7"
+    "spotify_id": "1ZP0yvaWPl8vQV9ZH9jvT7",
+    "moods": ["lovemaking"]
   },
   {
-    "artists": [
-      "R. Kelly"
-    ],
+    "artists": ["R. Kelly"],
     "name": "I Believe I Can Fly",
-    "spotify_id": "4R8satc0bUqxMY5t21GwvD"
+    "spotify_id": "4R8satc0bUqxMY5t21GwvD",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "R.E.M."
-    ],
+    "artists": ["R.E.M."],
     "name": "Everybody Hurts",
-    "spotify_id": "4tCWWnk3BXinf7FllmSyHW"
+    "spotify_id": "4tCWWnk3BXinf7FllmSyHW",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "REO Speedwagon"
-    ],
+    "artists": ["REO Speedwagon"],
     "name": "Can't Fight This Feeling",
-    "spotify_id": "5WwqdeavrQrbeAMDxGawse"
+    "spotify_id": "5WwqdeavrQrbeAMDxGawse",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Randy Crawford"
-    ],
+    "artists": ["Randy Crawford"],
     "name": "You Might Need Somebody",
-    "spotify_id": "57nTGfnZJSytMCCVpM18ND"
+    "spotify_id": "57nTGfnZJSytMCCVpM18ND",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Richard Marx"
-    ],
+    "artists": ["Richard Marx"],
     "name": "Right Here Waiting",
-    "spotify_id": "4LFwNJWoj74Yd71fIr1W8x"
+    "spotify_id": "4LFwNJWoj74Yd71fIr1W8x",
+    "moods": ["lonely", "romancing"]
   },
   {
-    "artists": [
-      "Robbie Williams"
-    ],
+    "artists": ["Robbie Williams"],
     "name": "Angels",
-    "spotify_id": "7CKbqqrs0AS1si1ZgaQdcj"
+    "spotify_id": "7CKbqqrs0AS1si1ZgaQdcj",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Rod Stewart"
-    ],
-    "name": "Have I Told You Lately - Unplugged Version",
-    "spotify_id": "0yxzZZ2H1ay1etrjCoSj2r"
+    "artists": ["Rod Stewart"],
+    "name": "For The First Time",
+    "spotify_id": "1R9J6Lscr2ijqarEAAVNqx",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Rod Stewart"
-    ],
-    "name": "Sailing - 2008 Remastered Version",
-    "spotify_id": "0AAaEKogi9tLTvvVvstLCJ"
+    "artists": ["Rod Stewart"],
+    "name": "Have I Told You Lately",
+    "spotify_id": "0yxzZZ2H1ay1etrjCoSj2r",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Rod Stewart"
-    ],
+    "artists": ["Rod Stewart"],
+    "name": "Sailing",
+    "spotify_id": "0AAaEKogi9tLTvvVvstLCJ",
+    "moods": ["lonely"]
+  },
+  {
+    "artists": ["Rod Stewart"],
     "name": "The Way You Look Tonight",
-    "spotify_id": "7hP1DiP1l4y2zU5HxurVo3"
+    "spotify_id": "7hP1DiP1l4y2zU5HxurVo3",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Roméo"
-    ],
-    "name": "Coming Home",
-    "spotify_id": "3F5aooCMveFOGQamHvgNYy"
-  },
-  {
-    "artists": [
-      "Ronan Keating"
-    ],
+    "artists": ["Ronan Keating"],
     "name": "When You Say Nothing At All",
-    "spotify_id": "0vZGruXhjcPQUB2nTmUfq4"
+    "spotify_id": "0vZGruXhjcPQUB2nTmUfq4",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Rose Royce"
-    ],
+    "artists": ["Rose Royce"],
     "name": "Wishing On A Star",
-    "spotify_id": "0u2CGItUO2jYEiFaXD7n5S"
+    "spotify_id": "0u2CGItUO2jYEiFaXD7n5S",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Roxette"
-    ],
+    "artists": ["Roxette"],
     "name": "Listen To Your Heart",
-    "spotify_id": "78TnMTAFmWUWWCgNXR7D3K"
+    "spotify_id": "78TnMTAFmWUWWCgNXR7D3K",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Roxette"
-    ],
-    "name": "It Must Have Been Love - Live In Santiago And Studio",
-    "spotify_id": "4oapOyezSDeFzQWu0tBxLC"
+    "artists": ["Roxette"],
+    "name": "It Must Have Been Love",
+    "spotify_id": "4oapOyezSDeFzQWu0tBxLC",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Savage Garden"
-    ],
+    "artists": ["Savage Garden"],
     "name": "Truly Madly Deeply",
-    "spotify_id": "41MCFjtQhy95MlgnJNK1sR"
+    "spotify_id": "41MCFjtQhy95MlgnJNK1sR",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Savage Garden"
-    ],
+    "artists": ["Savage Garden"],
     "name": "I Knew I Loved You",
-    "spotify_id": "0dQ8sFlmQakH1r2r9IqlYH"
+    "spotify_id": "0dQ8sFlmQakH1r2r9IqlYH",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Seal"
-    ],
+    "artists": ["Seal"],
     "name": "Kiss From A Rose",
-    "spotify_id": "7GLqUm70PkoncuJd0EZW0q"
+    "spotify_id": "7GLqUm70PkoncuJd0EZW0q",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Seal"
-    ],
-    "name": "Wishing On A Star",
-    "spotify_id": "0RVS9ziQmz01cjna6EHZa8"
-  },
-  {
-    "artists": [
-      "Sertab Erener",
-      "瑞奇馬汀"
-    ],
+    "artists": ["Sertab Erener", "瑞奇馬汀"],
     "name": "Private Emotion",
-    "spotify_id": "1ICTdvYnAkOmOI1ClVjOtW"
+    "spotify_id": "1ICTdvYnAkOmOI1ClVjOtW",
+    "moods": ["lonely", "romancing"]
   },
   {
-    "artists": [
-      "Shakira"
-    ],
+    "artists": ["Shakira"],
     "name": "Underneath Your Clothes",
-    "spotify_id": "6biR1gMwcN71SDt3Eh4eEu"
+    "spotify_id": "6biR1gMwcN71SDt3Eh4eEu",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Shania Twain"
-    ],
+    "artists": ["Shania Twain"],
     "name": "You're Still The One",
-    "spotify_id": "0eEkYsIODJFJI1BV1CQy2z"
+    "spotify_id": "0eEkYsIODJFJI1BV1CQy2z",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Simply Red"
-    ],
+    "artists": ["Simply Red"],
     "name": "Holding Back The Years",
-    "spotify_id": "5q04ftJMH7VjaKEbNUz18u"
+    "spotify_id": "5q04ftJMH7VjaKEbNUz18u",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Simply Red"
-    ],
-    "name": "If You Don't Know Me By Now - 2008 Remastered Version",
-    "spotify_id": "6Ky7q2RqSTSzs6au1DuuPW"
+    "artists": ["Simply Red"],
+    "name": "If You Don't Know Me By Now",
+    "spotify_id": "6Ky7q2RqSTSzs6au1DuuPW",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Sinéad O'Connor"
-    ],
+    "artists": ["Sinéad O'Connor"],
     "name": "Nothing Compares 2 U",
-    "spotify_id": "064ZylFGeddMC08XdMoNyj"
+    "spotify_id": "064ZylFGeddMC08XdMoNyj",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Spandau Ballet"
-    ],
+    "artists": ["Spandau Ballet"],
     "name": "Through the Barricades",
-    "spotify_id": "4c65AfKNelFDjlcVPKtgJX"
+    "spotify_id": "4c65AfKNelFDjlcVPKtgJX",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Spandau Ballet"
-    ],
+    "artists": ["Spandau Ballet"],
     "name": "True",
-    "spotify_id": "1QVSA2NXFOGPfu3o2Tb7s3"
+    "spotify_id": "1QVSA2NXFOGPfu3o2Tb7s3",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Spice Girls"
-    ],
-    "name": "Viva Forever - Radio Edit",
-    "spotify_id": "4sB9igr4cKIT358vYdjrkv"
+    "artists": ["Spice Girls"],
+    "name": "2 Become 1",
+    "spotify_id": "36AWdhZIGLUTkWpJDhe7va",
+    "moods": ["lovemaking", "romancing"]
   },
   {
-    "artists": [
-      "Sting"
-    ],
+    "artists": ["Spice Girls"],
+    "name": "Viva Forever",
+    "spotify_id": "4sB9igr4cKIT358vYdjrkv",
+    "moods": ["romancing"]
+  },
+  {
+    "artists": ["Sting"],
     "name": "Fields Of Gold",
-    "spotify_id": "22gLGCKbFKwmgZhrpVcnFb"
+    "spotify_id": "22gLGCKbFKwmgZhrpVcnFb",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Sting"
-    ],
+    "artists": ["Sting"],
     "name": "Shape Of My Heart",
-    "spotify_id": "1ZXfToGBX4iSwghR23xf1h"
+    "spotify_id": "1ZXfToGBX4iSwghR23xf1h",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Take That"
-    ],
+    "artists": ["Take That"],
     "name": "Back For Good",
-    "spotify_id": "6DEpT4lCY850MzcBmhd1if"
+    "spotify_id": "6DEpT4lCY850MzcBmhd1if",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "The Bangles"
-    ],
+    "artists": ["Tammy Wynette"],
+    "name": "Sometimes When We Touch",
+    "spotify_id": "6poFo34CP2t7EpZ0bNAboK",
+    "moods": ["romancing"]
+  },
+  {
+    "artists": ["The Bangles"],
     "name": "Eternal Flame",
-    "spotify_id": "5MoDQWMDMaAGDEiWsJfeCi"
+    "spotify_id": "5MoDQWMDMaAGDEiWsJfeCi",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "The Cars"
-    ],
+    "artists": ["The Cars"],
     "name": "Drive",
-    "spotify_id": "2KjYhaRlB5NtCJ0JotvJhZ"
+    "spotify_id": "2KjYhaRlB5NtCJ0JotvJhZ",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "The Goo Goo Dolls"
-    ],
+    "artists": ["The Goo Goo Dolls"],
     "name": "Iris",
-    "spotify_id": "6Qyc6fS4DsZjB2mRW9DsQs"
+    "spotify_id": "6Qyc6fS4DsZjB2mRW9DsQs",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "The Moody Blues",
-      "London Festival Orchestra",
-      "Peter Knight"
-    ],
-    "name": "Nights In White Satin - Full Version",
-    "spotify_id": "698Q2vxqa1CKvCKhh6WnSy"
+    "artists": ["The Moody Blues", "London Festival Orchestra", "Peter Knight"],
+    "name": "Nights In White Satin",
+    "spotify_id": "698Q2vxqa1CKvCKhh6WnSy",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "The Righteous Brothers"
-    ],
+    "artists": ["The Righteous Brothers"],
     "name": "Unchained Melody",
-    "spotify_id": "2ACjOtICHXrAlP3ijVMSvb"
+    "spotify_id": "2ACjOtICHXrAlP3ijVMSvb",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Toni Braxton"
-    ],
+    "artists": ["Toni Braxton"],
     "name": "Un-break My Heart",
-    "spotify_id": null
+    "spotify_id": "5grSE5ywl66ArZyyQZRXUm",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "U2"
-    ],
-    "name": "With Or Without You",
-    "spotify_id": "3bcYb4HwWlytUFLny0e0Q1"
-  },
-  {
-    "artists": [
-      "Usher"
-    ],
+    "artists": ["Usher"],
     "name": "Nice & Slow",
-    "spotify_id": "2KVVKbrg81ipix7moSsfzI"
+    "spotify_id": "2KVVKbrg81ipix7moSsfzI",
+    "moods": ["lovemaking"]
   },
   {
-    "artists": [
-      "Vanessa Williams"
-    ],
+    "artists": ["Van Morrison"],
+    "name": "Someone Like You",
+    "spotify_id": "4beWEVoUbjSziAFPy8voaF",
+    "moods": ["romancing"]
+  },
+  {
+    "artists": ["Vanessa Williams"],
     "name": "Colors Of The Wind",
-    "spotify_id": "4qjrCkcVbsYlitCqbBkeKe"
+    "spotify_id": "4qjrCkcVbsYlitCqbBkeKe",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Vanessa Williams"
-    ],
+    "artists": ["Vanessa Williams"],
     "name": "Save The Best For Last",
-    "spotify_id": "6QquU1dKEL2egTMcJMeQsZ"
+    "spotify_id": "6QquU1dKEL2egTMcJMeQsZ",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Volumia!"
-    ],
+    "artists": ["Volumia!"],
     "name": "Afscheid",
-    "spotify_id": "2h1jMOkIDg1RmYaTdh8RcL"
+    "spotify_id": "2h1jMOkIDg1RmYaTdh8RcL",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Volumia!"
-    ],
+    "artists": ["Volumia!"],
     "name": "Hou Me Vast",
-    "spotify_id": "4xYwLeq2bDxR2M0pNqK4Yw"
+    "spotify_id": "4xYwLeq2bDxR2M0pNqK4Yw",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Wendy Moten"
-    ],
+    "artists": ["Wendy Moten"],
     "name": "Come In Out Of The Rain",
-    "spotify_id": "6sBdn4caQSiZWExRWQlmtS"
+    "spotify_id": "6sBdn4caQSiZWExRWQlmtS",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Wet Wet Wet"
-    ],
+    "artists": ["Wet Wet Wet"],
     "name": "Love Is All Around",
-    "spotify_id": "7B7yeOj6uXOY9qPsOFtkHE"
+    "spotify_id": "7B7yeOj6uXOY9qPsOFtkHE",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Whitney Houston"
-    ],
+    "artists": ["Whitney Houston"],
     "name": "All at Once",
-    "spotify_id": "0g8Q1Pmem92k7PzI3VLWKz"
+    "spotify_id": "0g8Q1Pmem92k7PzI3VLWKz",
+    "moods": ["lonely"]
   },
   {
-    "artists": [
-      "Whitney Houston"
-    ],
+    "artists": ["Whitney Houston"],
     "name": "I Will Always Love You",
-    "spotify_id": "4eHbdreAnSOrDDsFfc4Fpm"
+    "spotify_id": "4eHbdreAnSOrDDsFfc4Fpm",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Whitney Houston"
-    ],
+    "artists": ["Whitney Houston"],
     "name": "Saving All My Love for You",
-    "spotify_id": "1lx8ddGT5wCD6W2xmLeRKG"
+    "spotify_id": "1lx8ddGT5wCD6W2xmLeRKG",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Whitney Houston"
-    ],
+    "artists": ["Whitney Houston"],
     "name": "Greatest Love Of All",
-    "spotify_id": "6yJxCltgtmGxIgKOS6ndnu"
+    "spotify_id": "6yJxCltgtmGxIgKOS6ndnu",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Yusuf / Cat Stevens"
-    ],
+    "artists": ["Yusuf / Cat Stevens"],
     "name": "Father And Son",
-    "spotify_id": "2nU1cyrG92p8h99g3Gykwz"
+    "spotify_id": "2nU1cyrG92p8h99g3Gykwz",
+    "moods": ["romancing"]
   },
   {
-    "artists": [
-      "Youssou N'Dour",
-      "Neneh Cherry"
-    ],
+    "artists": ["Youssou N'Dour", "Neneh Cherry"],
     "name": "7 Seconds",
-    "spotify_id": "76D5nfZbYzZYfUZKGy73jy"
+    "spotify_id": "76D5nfZbYzZYfUZKGy73jy",
+    "moods": ["romancing"]
   }
 ]

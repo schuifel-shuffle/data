@@ -9,4 +9,11 @@ describe('Tracks', () => {
       assert(typeof track.spotify_id !== 'undefined' && track.spotify_id !== '');
     });
   });
+
+  it('should have at least one mood', () => {
+    tracks.forEach(track => {
+      assert(typeof track.moods !== 'undefined');
+      assert(track.moods.length >= 1);
+    })
+  })
 });
