@@ -234,6 +234,12 @@
     "moods": ["lonely"]
   },
   {
+    "artists": ["Christina Perri"],
+    "name": "A Thousand Years",
+    "spotify_id": "6z5Yh7kOKeLjqIsNdokIpU",
+    "moods": ["lonely", "romancing"]
+  },
+  {
     "artists": ["Close II You"],
     "name": "Baby Don't Go",
     "spotify_id": "1443fRRG6rgJaSAoHQa6JE",
