@@ -24,8 +24,8 @@ npm install --save schuifel-shuffle-data
 Request a random track from the registry
 
 ```js
-const schuifelShuffle = require('schuifel-shuffle-data');
-const track = schuifelShuffle.shuffle();
+import schuifelShuffle from 'schuifel-shuffle-data'
+const randomTrack = schuifelShuffle.random()
 ```
 
 ### Moods
