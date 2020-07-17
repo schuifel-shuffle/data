@@ -1,10 +1,4 @@
-# See https://help.github.com/ignore-files/ for more about ignoring files.
-
+*.log
 .DS_Store
-
-/coverage
-/node_modules
-
-yarn-debug.log*
-yarn-error.log*
-yarn.lock
+node_modules
+dist
