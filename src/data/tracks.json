@@ -42,6 +42,12 @@
     "moods": ["lonely"]
   },
   {
+    "artists": ["All 4 One"],
+    "name": "I Swear",
+    "spotify_id": "3V0PeMg2mhbYRtk9bioAwF",
+    "moods": ["romancing", "lovemaking"]
+  },
+  {
     "artists": ["All Saints"],
     "name": "Never Ever",
     "spotify_id": "596XLiW6tohIgkcTMf4M6a",
