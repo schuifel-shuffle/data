@@ -1,6 +1,6 @@
 import tracks from './data/tracks.json'
 
-export type Mood = 'lonely' | 'lovemaking' | 'romancing'
+export type Mood = 'lonely' | 'erotic' | 'romantic'
 
 export interface Track {
   artists: string[]
