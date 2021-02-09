@@ -29,8 +29,8 @@ describe('Shuffle', () => {
   it('should return random track with the given mood', () => {
     jest.spyOn(global.Math, 'random').mockReturnValue(0.999)
 
-    const track = schuifelShuffle.random('lovemaking')
-    expect(track.moods.indexOf('lovemaking')).toBeGreaterThan(-1)
+    const track = schuifelShuffle.random('romantic')
+    expect(track.moods.indexOf('romantic')).toBeGreaterThan(-1)
 
     jest.spyOn(global.Math, 'random').mockRestore()
   })
